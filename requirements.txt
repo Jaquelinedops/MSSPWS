@@ -1,0 +1,17 @@
+pandas
+nltk
+tensorflow
+scikit-learn
+imbalanced-learn
+sentence-transformers
+tqdm
+numpy
+seaborn
+matplotlib
+xgboost
+spacy
+textblob
+transformers
+setuptools
+google.generativeai
+python-dotenv
